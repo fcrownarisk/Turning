@@ -1,0 +1,17 @@
+import "0.js"
+import "1.js"
+import "2.js"
+import "3.js"
+import "4.js"
+import "5.js"
+import "6.js"
+import "7.js"
+import "8.js"
+import "9.js"
+import "0.js"
+add :{1+2+3+4+5+6+7+8+9+0}
+minus :{1-2-3-4-5-6-7-8-9-0}
+multiple :{1*2*3*4*5*6*7*8*9*0}
+div :{1/2/3/4/5/6/7/8/9/0}
+pow :{1^2^3^4^5^6^7^8^9^0}
+mod :{1%2%3%4%5%6%7%8%9%0}

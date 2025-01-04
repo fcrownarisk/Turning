@@ -1,0 +1,9 @@
+const six1 = 3 + 3;
+const six2 = 6/2 + 6/2;
+const six3 = 8/3 + 10/3;
+const six4 = 10/4 + 14/4;
+const six5 = 12/5 + 18/5;
+const six6 = 14/6 + 22/6;
+const six7 = 16/7 + 26/7;
+const six8 = 18/8 + 30/8;
+const six9 = 20/9 + 34/9;

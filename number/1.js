@@ -1,0 +1,9 @@
+const one1 = 1 + 0;
+const one2 = 1/2 + 1/2;
+const one3 = 1/3 + 2/3;
+const one4 = 1/4 + 3/4;
+const one5 = 1/5 + 4/5;
+const one6 = 1/6 + 5/6;
+const one7 = 1/7 + 6/7;
+const one8 = 1/8 + 7/8;
+const one9 = 1/9 + 8/9;

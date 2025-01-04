@@ -1,0 +1,10 @@
+const zero1 = 1 - 1;
+const zero2 = 2 - 2;
+const zero3 = 3 - 3;
+const zero4 = 4 - 4;
+const zero5 = 5 - 5;
+const zero6 = 6 - 6;
+const zero7 = 7 - 7;
+const zero8 = 8 - 8;
+const zero9 = 9 - 9;
+const zero0 = 10 - 10;

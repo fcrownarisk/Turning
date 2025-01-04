@@ -1,0 +1,9 @@
+const nine1 = 4 + 5;
+const nine2 = 9/2 + 9/2;
+const nine3 = 11/3 + 10/3;
+const nine4 = 13/4 + 13/4;
+const nine5 = 15/5 + 30/5;
+const nine6 = 17/6 + 37/6;
+const nine7 = 19/7 + 44/7;
+const nine8 = 21/8 + 51/8;
+const nine9 = 23/9 + 58/9;

@@ -1,0 +1,9 @@
+const five1 = 2 + 3;
+const five2 = 5/2 + 5/2;
+const five3 = 7/3 + 8/3;
+const five4 = 9/4 + 11/4;
+const five5 = 11/5 + 14/5;
+const five6 = 13/6 + 17/6;
+const five7 = 15/7 + 20/7;
+const five8 = 17/8 + 23/8;
+const five9 = 19/9 + 26/9;

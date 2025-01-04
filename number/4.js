@@ -1,0 +1,9 @@
+const four1 = 2 + 2;
+const four2 = 4/2 + 4/2;
+const four3 = 6/3 + 6/3;
+const four4 = 8/4 + 8/4;
+const four5 = 10/5 + 10/5;
+const four6 = 12/6 + 12/6;
+const four7 = 14/7 + 14/7;
+const four8 = 16/8 + 16/8;
+const four9 = 18/9 + 18/9;
